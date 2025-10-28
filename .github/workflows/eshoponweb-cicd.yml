@@ -9,7 +9,7 @@ env:
   LOCATION: centralus
   TEMPLATE-FILE: infra/webapp.bicep
   SUBSCRIPTION-ID: 6fa06ca9-5e59-4d31-b943-9518d63366b2
-  WEBAPP-NAME: eshoponweb-webapp-veera
+  WEBAPP-NAME: eshoponweb-webapp-veera1
 
 
 jobs:
